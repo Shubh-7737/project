@@ -1,0 +1,29 @@
+.Sign1{
+    position:static;
+width: 1280px;
+height: 768px;
+left: 80px;
+top: 80px;
+margin-top: 5cm;
+margin-left: 3cm;
+background: white;
+border-radius: 32px;
+float: top;
+font-weight: 100;
+font-family: Georgia;
+font-size: 0.5cm;
+}
+.heading{
+    position:absolute ;
+   margin-left:500px;
+    margin-top:60px;
+}
+.Sign2{ 
+    position:absolute;
+    margin-top: 120px;
+    margin-left: 430px;
+width: 458px;
+height: 558px;
+background: rgb(10, 8, 8);
+border-radius: 38px;
+}

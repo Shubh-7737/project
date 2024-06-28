@@ -1,0 +1,77 @@
+#box3{
+   position:static;
+    margin-left:3cm;   
+width: 1280px;
+height: 768px;
+top: 80px;
+margin-top:5cm ;
+background: white;
+border-radius: 32px;
+background-size: 100% 100%;
+background-image: url(/public/images/conn2.jpg);
+animation-name: shubham;
+  animation-duration: 20s;
+  animation-timing-function: cubic-bezier(0.23, 1, 0.320, 1);
+  animation-iteration-count: infinite;
+}
+@keyframes shubham{
+  0%{
+    background-image: url(/public/images/conn2.jpg);
+  }
+  25%{
+    background-image: url(/public/images/conn.jpg);
+  }
+  50%{
+    background-image: url(/public/images/conn3.jpg);
+  }
+  75%{
+    background-image: url(/public/images/conn4.jpg);
+  }
+  100%{
+    background-image: url(/public/images/CUN2.jpg);
+  }
+}
+.box2{
+position:absolute;
+width: 800px;
+height:auto;
+margin-left: 500px;
+top: -1.7cm;
+margin-top:7.5cm ;
+border-radius: 32px;
+background-size: 100% 100%;
+opacity: 80%;
+background-repeat: no-repeat;
+color: aliceblue;
+font-weight: 100;
+font-family: Georgia;
+font-size: 1cm;
+}
+.browse{
+position: absolute;
+    float: left;
+    width: 750px;
+    height: 100px;
+    margin-left: 4cm;
+    margin-top: 400px;    
+}
+.box1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: justify;
+  border-left: 0cm;
+  background-color:rgba(244, 244, 219, 0.1);
+  float: left;
+  width: 184.7px;
+  height: 100px;
+  color: aliceblue;
+  background-color:none;
+}
+#button:hover{
+  cursor:pointer;
+}
+.boxx{
+  margin-left: 15px;
+  width:80px;
+}

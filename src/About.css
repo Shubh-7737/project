@@ -1,0 +1,39 @@
+.about{
+    position:static;
+     margin-left:3cm;   
+ width: 1280px;
+ height: 768px;
+ top: 80px;
+ margin-top:5cm ;
+ background: white;
+ border-radius: 32px;
+ background-image: url(/public/images/about.jpg);
+ background-size: 100% 100%;
+ background-repeat: no-repeat;
+}
+.About1{   
+    color:white;
+    position:absolute;
+    margin-top: 9.5cm; 
+    margin-left: 3cm;
+    width: 650px;
+    height: 300px;
+    background-color:transparent;
+    text-align: left;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 2cm;
+    text-size-adjust:stretch;
+}
+.artist{
+    position: relative;
+    margin-top: 1cm;
+    margin-left: 3cm;
+    border-radius: 32px;
+    height: 350px;
+    width: 1280px;
+    background-color: rgb(6, 6, 143);
+    text-align: center;
+    font-size:1.5cm;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ 

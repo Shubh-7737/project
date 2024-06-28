@@ -1,0 +1,48 @@
+.train{
+    position:static;
+    margin-left:3cm;   
+width: 15cm;
+height: 17cm;
+top: 80px;
+margin-top:5cm ;
+background-color: rgb(203, 203, 203);
+border-radius: 32px;
+float: left;
+background-size: 100% 100%;
+background-repeat: no-repeat;
+}
+.train1{
+    position:absolute;
+    width:3cm;
+    text-align: center;
+    justify-content: center;
+    font-family: Georgia;
+    font-weight: 100;
+    color: white;
+    margin-left: 11cm;
+    margin-top: 13cm;
+    height: 1cm;
+    background-color: rgb(5, 2, 136,0.5);
+    border-radius: 32px;
+}
+.train1:hover{
+    cursor: pointer;
+}
+.train2{
+    display: flex;
+    align-items: center;
+    position: absolute;
+    width:4cm;
+    margin-left: 2cm;
+    margin-top: 12cm;
+    height: 4cm;
+    font-variant-numeric:proportional-nums;
+    text-align: center;
+    justify-content: center;
+    font-family: Georgia;
+    font-weight: 100;
+    color:white;
+    font-family:sans-serif;
+    background-color:rgba(244, 244, 219, 0.1);
+    border-radius: 32px;
+}       
